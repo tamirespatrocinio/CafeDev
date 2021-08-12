@@ -1,11 +1,12 @@
-# Sample Snack app
+<div  align="center">
+  
+![cafeDev](https://user-images.githubusercontent.com/73259410/129281017-73341d7f-27b8-4b20-b047-9937376df5c2.png)
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
-
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
-
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
-
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
-
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+<h4>Aplicação CaféDev é responsável por mostrar um cardápio simples ao cliente.</h4>
+  
+<p>
+<img alt="Language Top" src="https://img.shields.io/github/languages/top/tamirespatrocinio/CafeDev">
+<img alt="Languages Count" src="https://img.shields.io/github/languages/count/tamirespatrocinio/CafeDev">
+<img alt="Last Commit" src="https://img.shields.io/github/last-commit/tamirespatrocinio/CafeDev">
+<img alt="Repo Size" src="https://img.shields.io/github/repo-size/tamirespatrocinio/CafeDev">
+</p>
