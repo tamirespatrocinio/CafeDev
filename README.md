@@ -10,3 +10,4 @@
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/tamirespatrocinio/CafeDev">
 <img alt="Repo Size" src="https://img.shields.io/github/repo-size/tamirespatrocinio/CafeDev">
 </p>
+</div>
